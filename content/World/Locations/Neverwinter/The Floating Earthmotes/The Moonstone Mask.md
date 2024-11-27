@@ -1,0 +1,1 @@
+The Moonstone Mask is a large inn that sits on a floating earthmote connected to the docks of the Protector’s Enclave section of Neverwinter. It is regarded by many as Neverwinter’s finest, most luxurious inn. The locale is named for the half-masks worn by all of its staff, which are lined with glowing moonstones.

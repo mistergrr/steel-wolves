@@ -1,0 +1,5 @@
+Throughout history, Castle Never has been claimed as a part of many city districts, but it might be best to consider the Castle as its own district. The three bridges around the castle serve as an essential part of city infrastructure, providing a way of traversing the Neverwinter River and getting between the Protectors Enclave and Bluelake districts.
+
+A visitor to Neverwinter may note that its architecture differs a bit from that of other parts of the city. That is because Castle Never is actually over a millennium old, having been commissioned by the sun elf, [[Lord Halueth Never]], who famously conquered the city of [[Illusk]] (of whose ruins modern-day [[Luskan]] now sits atop). Much of Castle Never was presumably built between -10 DR ([[Lord Halueth Never|Lord Never]]’s conquest of Illusk) and 87 DR (the time Neverwinter was officially founded as a city).
+
+In 1451 DR, “[[The Cataclysm]]” struck Neverwinter and left most of Castle Never in ruins and killed almost all of its inhabitants (including the ruling lineage). Castle Never now remains haunted with the spirits of those killed in the cataclysm.

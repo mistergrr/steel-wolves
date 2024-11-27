@@ -1,0 +1,3 @@
+A relatively new organisation, the Order of the Gauntlet is dedicated to smiting evil wherever it lurks, without hesitation. Members act on their own authority, delving into the most dangerous dungeons, darkest caverns, and foulest pits to weed out evildoers. The Order holds that faith in one’s god, one’s allies, and one’s self are the greatest weapons in quelling the hordes of malice. A strict code of honour requires that they do not strike pre-emptively, and that they allow all beings to come to the light of reason of their own volition.
+
+Members are given the title, [[Chevall]]

@@ -1,0 +1,3 @@
+The rulers of various cities and towns across Faerûn, such as Waterdeep, Silverymoon, Neverwinter, and the free cities, formed the Lords’ Alliance in order to keep evil at bay and protect their settlements. Agents are chosen for their loyalty and skills in observation, stealth, and combat, and are backed by the powerful lords. They proactively eliminate their enemies by any means necessary, whilst also fighting for the glory of their city. The Alliance can only survive as long as all members are willing to support and aid one another.
+
+Members are given the title, [[Cloak]]

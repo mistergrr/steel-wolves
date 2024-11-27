@@ -1,0 +1,13 @@
+---
+aliases: 
+Race: 
+Class: 
+Background:
+---
+**Age**: 
+**Voice**: 
+**Description**: 
+**Backstory**:
+**Drive**:
+**Theme**:
+**Quests**:
