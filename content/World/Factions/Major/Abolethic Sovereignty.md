@@ -15,17 +15,17 @@ The Sovereignty is collecting [[Plaguechanged]] creatures to join the choir of i
 The Sovereignty tests the mettle of captives before inserting them into the choir. If a candidate's body and mind survive exposure to the [[Spellplague]], the victim is a potential match. But a creature rendered insane by the process isn't up to snuff and is recycled as a roving monster set loose through the Chasm. These latter victims are in some ways the lucky ones. Potential candidates are subjected to a series of increasingly traumatic tests to determine their aptitude for singing in the choir. After such experimentation, little is left to identify a singer as humanoid or even natural anymore.
 
 ## Harness the Primordial
-As important as conquest and bolstering their forces are to the aboleths, their primary goal is far more ambitious. Even the Symphony of Madness is a cog working toward the Sovereignty's ultimate aim: seizing [[Maegera]], the fiery primordial bound in lost [[Gauntlgrym]].
+As important as conquest and bolstering their forces are to the aboleths, their primary goal is far more ambitious. Even the [[Symphony of Madness]] is a cog working toward the Sovereignty's ultimate aim: seizing [[Maegera the Inferno]], the fiery primordial bound in lost [[Gauntlgrym]].
 
 Soon after its kingdom arrived in Toril, the Sovereignty sensed the slumbering primordial, and that realization awoke in the aboleths all manner of dastardly schemes. Using their Choir, the creatures
-enslaved the mind flayers of the ancient dungeon and set them to learning about this potentially infinite power source. They plan to use the [[Spellplague]] to harness [[Maegera]], dominating its mind — or whatever guiding force a primordial has — and possibly plaguechanging it.
+enslaved the mind flayers of the ancient dungeon and set them to learning about this potentially infinite power source. They plan to use the [[Spellplague]] to harness [[Maegera the Inferno|Maegera]], dominating its mind — or whatever guiding force a primordial has — and possibly plaguechanging it.
 
 A world-shattering force under the control of the Abolethic Sovereignty — one that frightens even gods — would spell disaster for Faerûn and everyone in it.
 
 # Symphony of Madness
-The Symphony of Madness releases nightmares that damage more than a sufferer's sleep. What those effects are and who endures them are up to you.
+The [[Symphony of Madness]] releases nightmares that damage more than a sufferer's sleep. What those effects are and who endures them are up to you.
 
-Those most affected could become spellscarred or [[plaguechanged]] and be banished to [[Helm's Hold]]. Maybe the night visions inspire violent madness or cause lingering status effects in victims. Perhaps hallucinations seize the heroes and drain their healing surges. Maybe the nightmares provoke attack penalties during extended rests. Or the dreams could provide hints to guide players in the direction you want them to go.
+Those most affected could become [[spellscarred]] or [[plaguechanged]] and be banished to [[Helm's Hold]]. Maybe the night visions inspire violent madness or cause lingering status effects in victims. Perhaps hallucinations seize the heroes and drain their healing surges. Maybe the nightmares provoke attack penalties during extended rests. Or the dreams could provide hints to guide players in the direction you want them to go.
 
 Generally, use the Symphony as a tool to drive your campaign and create a sense of unease.
 

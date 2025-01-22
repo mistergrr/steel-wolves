@@ -32,4 +32,4 @@
 * [ ] Escort Lord Dagult Neverember ^escort-dagult
 	* [[Mission — Undead in Neverdeath]]
 	* Rewards:
-		* 200gp
+		* 300gp

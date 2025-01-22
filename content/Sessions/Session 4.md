@@ -30,7 +30,7 @@ Encouraged to pray while recuperating. There's a tiny shrine to a dwarf god here
 [[Deuteronomy Albrek | Deuteronomy]]
 
 ## Relevant Monsters
-- Plaguechanged gnolls
+- [[Plaguechanged]] gnolls
 
 ## Rewards
 - Large (enchanted) ruby
@@ -54,6 +54,7 @@ She finds [[Marthammor Duin]]'s shrine. It's dusty and in a dark unused corner. 
 
 She sits and talks to the statue, but doesn't have any divine experience. Decides to leave.
 > Sarah doesn't seem to be sure on what to do with the deities. She isn't taking to the whole "finding religion thing"
+
 Downstairs, her treatment is ready. It's an IV drip that's cooling and eases the feeling of infection. It takes about an hour or so, and she naps. [[Deuteronomy Albrek|Deuteronomy]] wakes her up. It's night. "You wanna get out of here?"
 
 He leads her to [[Heartward]]. The market is empty of people, but filled with ghosts. He explains that it's a nightly occurrence and that there's no one alive who was around when it began. No one is sure of what's going on, it just seems to be a quirk about the Hold. The ghost hanging in the centre changes every night.
@@ -77,7 +78,7 @@ In [[Heartward]], she buys 3 sacks of cheese, some bread, and a jar of honey. Th
 She's woken up in the evening again by [[Deuteronomy Albrek|Deuteronomy]] and they head out into town. She carries her weapons this time, but leaves her armour. As they're reaching [[Heartward]], they hear a cry for help from a nearby alley. Both of them rush to the sound and find a spellscarred dawrf fending off two gnolls.
 
 **Combat**
-The gnolls are [[Plaguechanged]]. They glow blue from scars. One of them flies at [[Grrurika]] and [[Deuteronomy Albrek|Deuter]] with wings of blue fire. [[Deuteronomy Albrek|Deuter]] managing to slash at it in the air with his dagger. The two of them injure the gnoll severely. It starts to glow then explodes in a burst of blue fire. Both [[Deuteronomy Albrek|Deuter]] and [[Grrurika]] are injured by the blast and are thrown 10ft in opposite directions.
+The gnolls are [[Plaguechanged]]. They glow blue from scars. One of them flies at [[Grrurika]] and [[Deuteronomy Albrek|Deuter]] with wings of blue fire. [[Deuteronomy Albrek|Deuter]] manages to slash at it in the air with his dagger. The two of them injure the gnoll severely. It starts to glow then explodes in a burst of blue fire. Both [[Deuteronomy Albrek|Deuter]] and [[Grrurika]] are injured by the blast and are thrown 10ft in opposite directions.
 
 The other gnoll comes at them. It's closer to [[Deuteronomy Albrek|Deuter]] and fights him. After it gets hit a few times, it also erupts in a blue fire burst. This time, [[Deuteronomy Albrek|Deuter]] is ready for it and managed to minimize the damage, but is still hurt by it.
 
@@ -90,7 +91,8 @@ The dwarf that they saved says he doesn't have money, but hands [[Grrurika]] an 
 ^summary
 
 # Kills
-* Grrurika: ^kills
+* Grrurika: 
+	* 1 [[Plaguechanged]] gnoll ^kills
 
 # XP
 100xp

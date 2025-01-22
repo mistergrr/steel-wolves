@@ -52,8 +52,8 @@ Day ends with a long shower, although some of the lake smell remains.
 Defeated a party of Many-Arrows orc raiders. They were carrying elf heads, which were returned, together with the stolen belongings. Rescued Lord Neverember from a wererat attack. The [[Dead Rats]] are still around. Grrurika is infected with wererat lycanthropy. Heading to Helm's Hold to cure.
 ^summary
 # Kills
-* Grrurika: ^kills
-	* 2 Orcs
+* Grrurika: 
+	* 2 Orcs ^kills
 * Schuul: 
 	* 2 Orcs
 

@@ -1,0 +1,7 @@
+Hidden among the pungent swamp of [[Chartilifax]]'s refuge is a small tunnel that leads down to a bizarre cavern—a vault of stone that is not protected by magic or mechanical traps. No such wards are permitted because they might interfere with the chamber's function. It is a focus for the [[Symphony of Madness]] and channels the flow of [[Spellplague]] energy from [[Neverwinter]].
+
+The walls of the cavern resemble those of a bulbous internal organ—not quite a brain, but not quite anything else. Corrupted by the summoned energy, the stone constantly throbs as though with breath or the pulse of a heart. At the center of the chamber rests a pedestal, upon which sits the focus of the choir: a seemingly normal-looking bronze coffer.
+
+This chest, the Hex Locus, is the item through which [[Rohini]] was corrupted into a [[foulspawn]], and it collects and channels the [[Spellplague]] energy for use by the [[Abolethic Sovereignty|Aboleths]].
+
+The Hex Locus is so intrinsically bound to [[Rohini|The Prophet]] that she can feel when anyone approaches the coffer. When someone enters the chamber, she feels it like pain. Unless she is disabled or wants the Hex Locus to be destroyed (see the sidebar), she will use the teleportation circle in the crypt tunnels to travel directly to the Locus as soon as it is breached, triggering a confrontation between the interlopers, [[Rohini]], and any [[foulspawn]] servants she summons.

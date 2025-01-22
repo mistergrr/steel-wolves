@@ -14,3 +14,7 @@ Lord Neverember stands at the centre of an ancient circle of gravestones, reciti
 - As Lord Neverember progresses in the ritual, Ghouls rise from the graves to disrupt the rite.
 ### Final Phase
 - As the rite nears completion, the enemies intensify their attacks. The party must balance between protecting Lord Neverember and combating the waves of undead.
+
+# Reward
+- 300gp to team
+- Magic item

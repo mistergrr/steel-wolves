@@ -14,21 +14,30 @@ Missions towards "corporal"
 * Mission: [[Quests#^spiders-cave|Clear Cave]]
 * Visit [[Whitepetal Hollow]]
 * Bumps into [[Lord Aldo Rockflower]] leaving [[Steel Wolves' HQ]] incognito
+
 ### Arc 1.2
 * [[Mission — Bandit Hideout]]
+
 ### Arc 1.3
 * Mission: [[Quests#^clean-blacklake1|Cleaning Blacklake]]
 * Leads to Arc 1.3
+
 ### Arc 1.4
 * [[Quests#^wererat-attack|Wererat Attack]]
 * Saves [[Dagult Neverember]] without knowing who he is.
 * Lord Neverember gives [[Grrurika]] a commendation, leading to her promotion.
+
 ### Arc 1.5
 - [[Grrurika]] travels to [[Helm's Hold]] to cure her wererat lycanthropy.
-- 
+- She meets [[Deuteronomy Albrek]]
+- There's a plaguechanged ambush in an alley.
+
+### Arc 1.6
+- Investigate the source of plaguechanged monsters.
 
 ## Narrative Arc 2
 * [[Grrurika]] returns to a promotion to Corporal but her first mission is a tough one
+	* Title, "[[Protector]]"
 * A corporal can bring 2 sidekicks (privates).
 * Bounty board unlocked.
 

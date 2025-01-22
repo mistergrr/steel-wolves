@@ -65,8 +65,8 @@ Post Combat
 Received information about [[Wolfsbane]]. Cleared bandit hideout. Kept [[Potion of Fire Breath]] but hasn't discovered its properties. Distributed coins to the homeless — made allies. Delivered Captain Brakkus to [[Captain Thorne Blackwood|Thorne Blackwood]]. Split reward with [[Perts Dangling|Perts]] Ended 1pm.
 ^summary
 # Kills
-* Grrurika: ^kills
-	* 1 bandit
+* Grrurika:
+	* 1 bandit ^kills
 * Perts
 	* 1 bandit
 

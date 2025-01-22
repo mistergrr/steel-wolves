@@ -3,9 +3,11 @@
 - [x] [[Potion of Fire Breath]]
 - [x] [[Web Sac]]
 ## Uncommon (4)
-- [x] [[Wolfsbane]]
-- [x] +1 Ruby
+- [ ] +1 Shortsword [[Wolfsbane]]
+	- [x] [[Wolfsbane]]
+	- [x] +1 Ruby
 ## Rare (1)
+- [ ] Relic 1
 - [ ] 
 
 # Levels 5-10

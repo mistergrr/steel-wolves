@@ -8,7 +8,7 @@ Ashmadai HQ?, Neverwinter.
 2. **Main Hall:** The cultists are arranged in a circle around a summoning circle, with the cult fanatic leading the ritual. The imps are hidden in the shadows, invisible, waiting to strike.
 3. **Altar:** At the far end of the main hall, there's an altar with infernal symbols. This is where the bearded devil will appear if summoned.
 # Enemies:
-1. 4 [[Cultist]]: HP 9, AC 12 (1/8)
+1. 4 [[Cultist]]: HP 9, AC 12 (CR1/8)
 2. 1 [[Cult Fanatic]]: HP 22, AC 13 (CR 2)
 3. 2 [[Imp]]: HP 10, AC 13 (CR 1)
 4. 1 [[Bearded Devil]]: HP 52, AC 13 (CR 3) (summoned)
